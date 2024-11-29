@@ -60,12 +60,10 @@ Quang Trung Luu, former student of the L2S, was awarded the GDR RSD 2022 thesis 
 ### Plateau de Saclay Doctoral Prize 2022
 
 Two first prizes were awarded (in alphabetical order) to :
-
 - Anatole LEFORT, SAMOVAR, Institut Polytechnique de Paris, for the paper « J-NVM : Off-heap Objects in Java »
 - Herikalaina RAKOTOARISON, LISN, Université Paris-Saclay, for the paper « Learning meta-features for AutoML »
 
 Four accessits were awarded (in alphabetical order) to :
-
 - Constantin PHILIPPENKO, CMAP, Institut Polytechnique de Paris, for the paper « Preserved central model for faster bidirectional compression in distributed settings»
 - Jeanne REDAUD, L2S, Université de Paris-Saclay, for the paper « Stabilizing output-feedback control law for hyperbolic systems using a Fredholm transformation »
 - Pierre VANDENHOVE, LMF, Université Paris-Saclay, for the paper « Characterizing Omega-Regularity Through Finite-Memory Determinacy of Games on Infinite Graphs»  
@@ -74,12 +72,10 @@ Four accessits were awarded (in alphabetical order) to :
 ### Plateau de Saclay Doctoral Prize 2021
 
 Two first prizes were awarded (in alphabetical order) to :
-
 - Elie MICHEL, LTCI, Institut Polytechnique de Paris, for the paper "DAG Amendment for Inverse Control of Parametric Shapes".
 - Hugo RICHARD, Inria, Université Paris-Saclay, for the article " Modeling Shared Responses in Neuroimaging Studies through MultiView ICA ".
 
 Two accessits were awarded (in alphabetical order) to :
-
 - Antonin LEROUX, LIX, Institut Polytechnique de Paris, for the article " SQISign: compact post-quantum signatures from quaternions and isogenies ".
 - Yingying QIN, SATIE/L2S, Université Paris-Saclay, for the paper " Joint inversion of electromagnetic and acoustic data with edge-preserving regularization for breast imaging ".
 
@@ -92,12 +88,10 @@ Charlie Jacomme, former PhD student of the LSV (and former representative of the
 Since this year 2020, the ED STIC Doctoral Prize becomes the Plateau de Saclay Doctoral Prize, co-organized by the Labex Digicosme, the ED STIC of Paris-Saclay and the ED of the IP Paris.
 
 Two first prizes were awarded (in alphabetical order) to :
-
 - Denis ANTIPOV, LIX, Institut Polytechnique de Paris, for the paper "Fast mutation in crossover-based algorithms".
 - Baptiste BROTO, CEA LIST, Université Paris-Saclay, for the paper " Variance reduction for estimation of Shapley effects and adaptation to unknown input distribution ".
 
 Four accessits were awarded (in alphabetical order) to :
-
 - Nathan DE LARA and Quentin LUTZ (jointly), LTCI, Institut Polytechnique de Paris for the software " Scikit-network: Open-source software for graph analysis ".
 - Ali MAATOUK, L2S, Université Paris-Saclay, for the article " On The Age of Information in a CSMA Environment ".
 - Alessio MANSUTTI, LSV, Université Paris-Saclay, for the article " Internal Calculi for Separation Logics ".
@@ -122,7 +116,6 @@ It was awarded during TALN 2019 to Rachel Bawden who did her thesis entitled Au-
 ### ED STIC Doctoral Prize 2019
 
 First prize ex aequo:
-
 - Adrien Koutsos, LSV, ENS Paris-Saclay, for the paper "The 5G-AKA Authentication Protocol Privacy
 - Ammar Mian, SONDRA, CentraleSupélec, for the paper "New Robust Statistics for Change Detection in Time Series of Multivariate SAR Images"
 
