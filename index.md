@@ -45,7 +45,7 @@ Here are the internal rules of the ED STIC :
 
 ## Contacts
 
-Pole A - Antoine Berthet (director), Soumya Faouzi (assistant) : poleAstic@universite-paris-saclay.fr
+*Pole A* - Antoine Berthet (director), Soumya Faouzi (assistant) : poleAstic@universite-paris-saclay.fr
 
 Pole B - Caroline Appert (director), Stéphanie Druetta (assistant) : poleBstic@universite-paris-saclay.fr
 
