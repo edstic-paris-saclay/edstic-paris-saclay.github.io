@@ -18,8 +18,6 @@ The STIC doctoral school is composed of three scientific poles:
 - Pole B: Big Data, Knowledge, Learning, Interactions
 - Pole C: Programming, Models, Algorithms, Architecture, Networks
 
-The e-mail addresses of the poles and the composition of the committees are available in the "Contact" section of the main menu.
-
 ## Support for training and mobility of doctoral students
 
 The ED STIC and the Graduate School ISN jointly offer financial aid for :
@@ -51,9 +49,10 @@ The list of members of the ED STIC Board is available in the "Contact" section o
 
 ## Internal regulations
 
-Here are the internal rules of the ED STIC, voted by the council of the doctoral school on November 29, 2022, then by the council of the 
+Here are the internal rules of the ED STIC : 
 
-Three second prizes ex aequo were awarded in alphabetical order to :
-- Ejder Bastug, under the supervision of Mérouane Debbah and Jean-Claude Belfiore, for "Cache-enabled Small Cell Networks: Modeling and Tradeoffs".
-- Wacha Bounliphone and Eugene Belilovsky, under the supervision of Arthur Tenenhaus and Matthew Blaschko, for "A Test of Relative Similarity For Model Selection in Generative Models
-- Martin Gleize, under the supervision of Brigitte Grau, for "A Unified Kernel Approach for Learning Type Sentence Rewritings".
+## Contacts
+
+
+
+
