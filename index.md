@@ -39,20 +39,19 @@ You will find below the application form. Once completed, it must be signed by y
 
 - Application form for financial support for participation in a thematic school or a young researchers school
 
-## Minutes of the meetings of the ED Council
-
-The list of members of the ED STIC Board is available in the "Contact" section of the main menu.
-
-- Meeting of the ED STIC Council on June 18, 2020
-
-- Meeting of the ED STIC Council on December 2, 2019
-
 ## Internal regulations
 
 Here are the internal rules of the ED STIC : 
 
 ## Contacts
 
+Pole A - Antoine Berthet (director), Soumya Faouzi (assistant) : poleAstic@universite-paris-saclay.fr
+Pole B - Caroline Appert (director), Stéphanie Druetta (assistant) : poleBstic@universite-paris-saclay.fr
+Pole C - Nadjib Ait Saadi (director), Annabelle Tissier (assistant) : poleCstic@universite-paris-saclay.fr
 
+Doctoral school's direction- Alain Denise (director), Stéphanie Druetta (assistant) : edstic@universite-paris-saclay.fr
+
+Training and call for thematic schools and mobility - Hanna Klaudel (director); Sonia Chandrakulam (assistant) : formation-edstic@universite-paris-saclay.fr
+Industrial and international relations - Véronique Vèque (director) : industriel-edstic@universite-paris-saclay.fr, international-edstic@universite-paris-saclay.fr
 
 
