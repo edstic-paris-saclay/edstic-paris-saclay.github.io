@@ -45,18 +45,25 @@ Here are the internal rules of the ED STIC :
 
 ## Contacts
 
-*Pole A* - Antoine Berthet (director), Soumya Faouzi (assistant) : poleAstic@universite-paris-saclay.fr
+**Pole A** - Antoine Berthet (director), Soumya Faouzi (assistant): poleAstic@universite-paris-saclay.fr
 
-Pole B - Caroline Appert (director), Stéphanie Druetta (assistant) : poleBstic@universite-paris-saclay.fr
+**Pole B** - Caroline Appert (director), Stéphanie Druetta (assistant): poleBstic@universite-paris-saclay.fr
 
-Pole C - Nadjib Ait Saadi (director), Annabelle Tissier (assistant) : poleCstic@universite-paris-saclay.fr
-
-
-Doctoral school's direction- Alain Denise (director), Stéphanie Druetta (assistant) : edstic@universite-paris-saclay.fr
+**Pole C** - Nadjib Ait Saadi (director), Annabelle Tissier (assistant): poleCstic@universite-paris-saclay.fr
 
 
-Training and call for thematic schools and mobility - Hanna Klaudel (director); Sonia Chandrakulam (assistant) : formation-edstic@universite-paris-saclay.fr
+**Doctoral school's direction** - Alain Denise (director), Stéphanie Druetta (assistant): edstic@universite-paris-saclay.fr
 
-Industrial and international relations - Véronique Vèque (director) : industriel-edstic@universite-paris-saclay.fr, international-edstic@universite-paris-saclay.fr
+
+**Training and call for thematic schools and mobility** - Hanna Klaudel,  Sonia Chandrakulam (assistant): formation-edstic@universite-paris-saclay.fr
+
+**Industrial and international relations** - Véronique Vèque: industriel-edstic@universite-paris-saclay.fr, international-edstic@universite-paris-saclay.fr
+
+**Budget** : Frédéric Blanqui
+
+**PhD student representatives** - Vincent Cavez, Manon Mottier, Léo Olivier, Nilo Schwencke, Yanick Christian Tchenko: rep-doc-edstic@universite-paris-saclay.fr
+
+
+
 
 
