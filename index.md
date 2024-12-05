@@ -4,7 +4,7 @@ University Paris Saclay
 
 ## News
 
-This is a temporary website. You will find below the main informationa about the doctoral school and its processes. If you need help, the first contact is your pole: poleXstic@universite-paris-saclay.fr, where X = A, B or C depending of your pole. All other contact emails are given at the end ofg this page.   
+This is a temporary website. You will find below the main informationa about the doctoral school and its processes. If you need help, the first contact is your pole: poleXstic@universite-paris-saclay.fr, where X = A, B or C depending of your pole. All other contact emails, including the PhD students representatives, are given at the end of this page.   
 
 ## The doctoral school
 
