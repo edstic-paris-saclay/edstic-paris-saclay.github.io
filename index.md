@@ -1,18 +1,6 @@
 # Doctoral school on Sciences and Technologies of Information and Communication (STIC) of the University Paris Saclay
 
-- [PhD](phd.md)
-- [Grants](grants.md)
-- [Registration](registration.md)
-- [Supervision](supervision.md)
-- [Training](training.md)
-- [Defense](defense.md)
-- [After PhD](after.md)
-- [International](international.md)
-- [Contacts](contact.md)
-
-## News
-
-This is a temporary website. You will find below the main informationa about the doctoral school and its processes. If you need help, the first contact is your pole: poleXstic@universite-paris-saclay.fr, where X = A, B or C depending of your pole. All other contact emails, including the PhD students representatives, are given at the end of this page.   
+This is a temporary website. You will find below the main information about the doctoral school and its processes. If you need help, the first contact is your pole: poleXstic@universite-paris-saclay.fr, where X = A, B or C depending of your pole. All other contact emails, including the PhD students representatives, are given at the end of this page.
 
 ## The doctoral school
 
@@ -59,9 +47,7 @@ Here are the internal rules of the ED STIC :
 
 **Pole C** - Nadjib Ait Saadi (director), Annabelle Tissier (assistant): poleCstic@universite-paris-saclay.fr
 
-
 **Doctoral school's direction** - Alain Denise (director), Stéphanie Druetta (assistant): edstic@universite-paris-saclay.fr
-
 
 **Training and call for thematic schools and mobility** - Hanna Klaudel,  Sonia Chandrakulam (assistant): formation-edstic@universite-paris-saclay.fr
 
@@ -71,7 +57,16 @@ Here are the internal rules of the ED STIC :
 
 **PhD student representatives** - Vincent Cavez, Manon Mottier, Léo Olivier, Nilo Schwencke, Yanick Christian Tchenko: rep-doc-edstic@universite-paris-saclay.fr
 
+## Previous archived website
 
+[archive of the previous website](https://web.archive.org/web/20230702024256/https://www.universite-paris-saclay.fr/en/doctoral-schools/sciences-and-technologies-information-and-communication)
 
-
-
+- [PhD](phd.md)
+- [Grants](grants.md)
+- [Registration](registration.md)
+- [Supervision](supervision.md)
+- [Training](training.md)
+- [Defense](defense.md)
+- [After PhD](after.md)
+- [International](international.md)
+- [Contacts](contact.md)
