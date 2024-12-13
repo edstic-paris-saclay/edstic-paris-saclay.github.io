@@ -1,5 +1,15 @@
 # Doctoral school on Sciences and Technologies of Information and Communication (STIC) of the University Paris Saclay
 
+- [PhD](phd.md)
+- [Grants](grants.md)
+- [Registration](registration.md)
+- [Supervision](supervision.md)
+- [Training](training.md)
+- [Defense](defense.md)
+- [After PhD](after.md)
+- [International](international.md)
+- [Contacts](contact.md)
+
 ## News
 
 This is a temporary website. You will find below the main informationa about the doctoral school and its processes. If you need help, the first contact is your pole: poleXstic@universite-paris-saclay.fr, where X = A, B or C depending of your pole. All other contact emails, including the PhD students representatives, are given at the end of this page.   
