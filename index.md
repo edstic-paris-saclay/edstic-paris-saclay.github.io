@@ -1,6 +1,4 @@
-# Doctoral school on Sciences and Technologies of Information and Communication (STIC)
-
-University Paris Saclay
+# Doctoral school on Sciences and Technologies of Information and Communication (STIC) of the University Paris Saclay
 
 ## News
 
